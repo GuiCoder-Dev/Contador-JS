@@ -40,6 +40,7 @@
     background-color: var(--black);
     color: var(--branco);
     margin-bottom: 20px;
+    transition: 0.5s;
 }
 
 .container button:hover{
